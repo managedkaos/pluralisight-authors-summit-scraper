@@ -39,7 +39,7 @@ if response.status_code == 200:
 
     # Display and save the dataframe
     pd.set_option("display.max_colwidth", None)
-    df[["time", "title"]].to_csv("events.csv", index=False)
     print(df[["time", "title"]].to_string(index=False))
+    df[["time", "title","description"]].to_csv("events.csv", index=False)
 else:
     print(f"Failed to retrieve the page. Status code: {response.status_code}")

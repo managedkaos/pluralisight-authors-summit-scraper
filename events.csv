@@ -1,49 +1,49 @@
-time,title
-6:00 pm,Author Welcome Reception (Optional)
-6:00 am,Breakfast
-8:30 am,Author Summit Welcome
-8:40 am,CCO Update
-8:55 am,Content Update
-9:10 am,Content Leadership Q&A
-9:40 am,Break
-10:00 am,AI Breakout Session
-10:00 am,Developer + Product & Business Breakout Session
-10:00 am,Cloud & Data Breakout Session
-10:00 am,Security & IT Ops Breakout Session
-11:00 am,From Concept to Course: Mastering Writing for Authors
-11:00 am,Author Advocacy: Be the Pluralsight Brand
-11:00 am,Time Management and Creating a Production Schedule
-11:00 am,How to Plan and Outline a Short Form Course
-12:00 pm,Lunch
-1:00 pm,Visual-First Scripting: Enhance Your On-Camera Course Content
-1:00 pm,Strategic Curriculum Design: Create Impactful and Relevant Content for the Right Audience
-1:00 pm,Creating Effective Skill IQs
-1:00 pm,Translating Your Ideas to Slides That Are Easy to Deliver
-2:00 pm,My Course is Published. Now What?
-2:00 pm,Build a Better Course Through Standards
-2:00 pm,Optimizing Content Performance Using Learner Feedback
-2:00 pm,Author Trivia
-2:50 pm,Snack Break
-3:10 pm,Day 1 Wrap Up + Day 2 Overview + EPCOT Overview
-4:15 pm,Author Party
-6:00 am,Breakfast
-9:00 am,Welcome Day Two
-9:10 am,Content Production & Delivery Updates
-9:25 am,Content Production & Delivery Q&A
-9:45 am,Break
-10:00 am,Video Skills: DaVinci Resolve and OBS Fundamentals
-10:00 am,Combining Taste and Technology for Face-To-Camera
-10:00 am,Mastering Slide Design: Best Practices for Engaging Presentations
-10:00 am,Making Friends with the Camera: Practical Tips for Confident Presentation
-11:00 am,How to Be More Comfortable and Confident On Camera
-11:00 am,Perfecting Your Home Office Audio: Practical Tips for Top Notch Recordings
-11:00 am,Video Skills: DaVinci Resolve Building on the Fundamentals
-11:00 am,Combining Taste and Technology for Face-To-Camera
-12:00 pm,Lunch
-1:00 pm,Develop a Photographerâs Eye - AKA What You Learn in Film School
-1:00 pm,How to Be More Comfortable and Confident On Camera
-1:00 pm,Voiceover Made Easy
-2:00 pm,SEO with AI Tools: Maximizing Your Courseâs Reach
-2:00 pm,"Building Better Labs: Guidelines, Examples, and Pro Tips"
-2:00 pm,Author Trivia
-3:00 pm,Author Summit Wrap Up
+time,title,description
+6:00 pm,Author Welcome Reception (Optional),"We hope to see you at the Author Summit welcome reception, where the magic begins! Join us at Drury in ""The City Beautiful"" room to reconnect with fellow authors and the Pluralsight team, enjoy food and drinks, and relax after your journey to Orlando. It's a small world after all, so let's kick off the week right with networking and connection before we get into the real content creator discussions."
+6:00 am,Breakfast,"Begin the day with scrambled eggs, sausage, fresh fruit, oatmeal, biscuits and gravy, and more with Drury Hotel's complimentary hot breakfast. Offered 6 am - 10 am, enjoy breakfast on your own time as you get ready for a day at Author Summit!"
+8:30 am,Author Summit Welcome,"Ready to enter a whole new world of content creation with speakers, sessions, and workshops? Great. We're excited to have you here. Welcome to Author Summit!"
+8:40 am,CCO Update,
+8:55 am,Content Update,
+9:10 am,Content Leadership Q&A,"Author Q&A with Chris Herbert, Meghan Manfre, Greg Shields, Megan Thompson, and Simon Allardice."
+9:40 am,Break,Take a break and use this time to update your headshotâhappening today only!
+10:00 am,AI Breakout Session,
+10:00 am,Developer + Product & Business Breakout Session,
+10:00 am,Cloud & Data Breakout Session,
+10:00 am,Security & IT Ops Breakout Session,
+11:00 am,From Concept to Course: Mastering Writing for Authors,Jumpstart your course creation skills in this one-hour workshop. Learn a structured framework for content development and key writing principles. Get hands-on practice to improve your educational content quickly and effectively.
+11:00 am,Author Advocacy: Be the Pluralsight Brand,"I'm the brand, youâre the brand, we're all the brand! In this session, we'll dive into what brand really means to us at Pluralsight and why. It's not just about logos or colors; it's about living and breathing our values in every interaction we have, while creating memorable experiences and genuine connections with our learners."
+11:00 am,Time Management and Creating a Production Schedule,"Learn how to create an effective production schedule using a new tool. We'll start by discussing your experiences and best practices in production planning, followed by a hands-on exploration of the new tool. By the end, you'll have the skills to develop a production schedule for a single module course, ensuring you meet your deadlines with confidence."
+11:00 am,How to Plan and Outline a Short Form Course,"As we focus more on short-form content, you might wonder how content teams expect you to adjust your planning and outlining. This session will teach you how to write approval-ready outlines for short form courses and reduce your overall course length."
+12:00 pm,Lunch,"Today's lunch menu includes a variety of delicious items like a meat and cheese charcuterie, variety of salads, pesto marinated chicken breast, pan seared mahi mahi, fontina and wild mushroom lasagna rolls, roasted broccolini with charred lemon and blistered tomato, and rosemary foccacia. Top it all off with a mini cannoli for dessert!"
+1:00 pm,Visual-First Scripting: Enhance Your On-Camera Course Content,"Learn how to script your course videos with visuals in mind. In this 60-minute workshop, you'll discover how to plan and integrate visuals alongside your script, ensuring a more engaging and visually appealing course. Ideal for instructors currently recording or planning to record face-to-camera videos."
+1:00 pm,Strategic Curriculum Design: Create Impactful and Relevant Content for the Right Audience,"Not all content needs to be short form. But all content should be relevant and impactful while being concise. As weâve modernized our curriculum strategy, learn how to create focused content to align to that strategy. Join us for a workshop focused on designing effective and relevant content for your target audience."
+1:00 pm,Creating Effective Skill IQs,"In this session, you'll learn the behind-the-scenes process of creating a Skill IQ, develop the ability to write questions that meet Bloom's Taxonomy levels, and experiment with prompts for high-quality question crafting. Additionally, you'll gain insight into the different roles and components involved in producing a Skill IQ."
+1:00 pm,Translating Your Ideas to Slides That Are Easy to Deliver,"Creating awesome content is labor intensive! This session will teach you tips and tricks to efficiently translate your ideas into compelling, high quality slides, that are both engaging and easy to deliver. This leads to fewer mistakes when recording, and videos that are easy and quick to edit!"
+2:00 pm,My Course is Published. Now What?,Congrats! Youâve crafted an engaging and enlightening course. What now? This session will teach you how to effectively promote your content and how our marketing team can collaborate with you to direct as many learners as possible to your content.
+2:00 pm,Build a Better Course Through Standards,"Standards help build great courses! This session will teach you why standards are the foundation behind a successful course. Through review and examples, you will see how standards will improve the quality of your courses and lower the amount of feedback you might receive during a review!"
+2:00 pm,Optimizing Content Performance Using Learner Feedback,"In this session, we will be taking a look at the metrics that we use to determine if content on the platform is performant as well as looking at the steps we take to determine how to improve that content."
+2:00 pm,Author Trivia,"Take a break from the brainpower-packed schedule and join Scott Smith and Adam Mumma for some pub(ish) trivia. (Less pub, extra fun.) Adam and Scott have been dominating the pub trivia scene (according to them, anyway), so we'll host two trivia sessions covering random topics, mostly non-Pluralsight stuff! (Although they might sneak in a Pluralsight question or two just to keep you on your toes.) Come wow them with your expertise and maybe even snag bragging rights from these two highly-acclaimed pub trivia-ists."
+2:50 pm,Snack Break,Day one is almost done! It's your last chance to get your headshot taken while you snack on some fruit and a granola bars.
+3:10 pm,Day 1 Wrap Up + Day 2 Overview + EPCOT Overview,
+4:15 pm,Author Party,"Join us for a magical evening during our Author Party at EPCOT! Soar on Soarin', grab dinner at EPCOTâs Food and Wine Festival, and explore the OG Spaceship Earth. Then join Pluralsight's crew to cap the night off at 7:30 PM with Disney-themed desserts, an open bar, and fireworks. (Shuttles will be taking Authors to EPCOT from the Drury hotel at 4:30 PM and back to Drury hotel at 9:45 PM.)"
+6:00 am,Breakfast,"Begin the day with scrambled eggs, sausage, fresh fruit, oatmeal, biscuits and gravy, and more with Drury Hotel's complimentary hot breakfast. Offered 6 am - 10 am, enjoy breakfast on your own time as you get ready for a day at Author Summit!"
+9:00 am,Welcome Day Two,
+9:10 am,Content Production & Delivery Updates,
+9:25 am,Content Production & Delivery Q&A,"Author Q&A with Greg Shields, Jacob Branch, Melissa Thoreson, Mike Bunch, and Samantha Eicholtz."
+9:45 am,Break,
+10:00 am,Video Skills: DaVinci Resolve and OBS Fundamentals,Video editing is easier and faster when you have better tools. This session will teach you how to capture screen and F2C video in OBS Studio and edit efficiently in DaVinci Resolve.
+10:00 am,Combining Taste and Technology for Face-To-Camera,Master face-to-camera techniques in this hands-on workshop. Learn essential camera and lighting settings for optimal results. Bring your own gear for personalized adjustments. Ideal for content creators looking to enhance their visual quality.
+10:00 am,Mastering Slide Design: Best Practices for Engaging Presentations,"Learn how to transform your slides with effective design principles. This workshop will equip you with practical tips to improve your PowerPoint and Keynote-based course videos, ensuring your content is clear, engaging, and impactful."
+10:00 am,Making Friends with the Camera: Practical Tips for Confident Presentation,Want to make your content more engaging? This session will teach you how to create engaging face to camera content using practical methods that build confidence in your delivery.
+11:00 am,How to Be More Comfortable and Confident On Camera,"In this fast-paced session, explore a collection of practical tips and tricks to improve face-to-camera moments."
+11:00 am,Perfecting Your Home Office Audio: Practical Tips for Top Notch Recordings,"Learn how to set up your home office for optimal audio recording. In this 60-minute workshop, you'll get practical tips on using company-recommended hardware, configuring your space, and identifying common audio issues to ensure clear and professional recordings for your online courses."
+11:00 am,Video Skills: DaVinci Resolve Building on the Fundamentals,Video editing is easier and faster when you have better tools. This session will teach you to go beyond the basics of editing in DaVinci Resolve with advanced techniques and motion graphics templates.
+11:00 am,Combining Taste and Technology for Face-To-Camera,Master face-to-camera techniques in this hands-on workshop. Learn essential camera and lighting settings for optimal results. Bring your own gear for personalized adjustments. Ideal for content creators looking to enhance their visual quality.
+12:00 pm,Lunch,"It's time for lunch! Feast on soup, salad, and a build-your-own sandwich spread with a variety of artisan meats and cheeses. Sides include: kettle chips, assorted cookies, and double fudge brownies."
+1:00 pm,Develop a Photographerâs Eye - AKA What You Learn in Film School,"This session will teach you how to gain a âphotographerâs eyeâ, youâll be trained to look at face-to-camera footage from the perspective of film school graduates."
+1:00 pm,How to Be More Comfortable and Confident On Camera,"In this fast-paced session, explore a collection of practical tips and tricks to improve face-to-camera moments."
+1:00 pm,Voiceover Made Easy,"If youâd like to spend less time editing voiceover mistakes from your clips, this session is for you. You will learn how to optimize your vocal delivery and avoid common mistakes that lead to extra time and energy spent editing clips."
+2:00 pm,SEO with AI Tools: Maximizing Your Courseâs Reach,"Ensure your content reaches as many learners as possible with AI-driven SEO strategies. In this comprehensive session, you'll learn how to leverage AI tools to enhance your course's visibility, attract more viewers, and optimize your content for search engines."
+2:00 pm,"Building Better Labs: Guidelines, Examples, and Pro Tips","Creating a lab can be an overwhelming experience because there are so many pieces that have to work in harmony: instructions, code and/or application, and the overall presentation of the lab. In this session, whether youâre new or experienced, youâll learn the skills to create your very own high quality lab."
+2:00 pm,Author Trivia,"Take a break from the brainpower-packed schedule and join Scott Smith and Adam Mumma for some pub(ish) trivia. (Less pub, extra fun.) Adam and Scott have been dominating the pub trivia scene (according to them, anyway), so we'll host two trivia sessions covering random topics, mostly non-Pluralsight stuff! (Although they might sneak in a Pluralsight question or two just to keep you on your toes.) Come wow them with your expertise and maybe even snag bragging rights from these two highly-acclaimed pub trivia-ists."
+3:00 pm,Author Summit Wrap Up,
